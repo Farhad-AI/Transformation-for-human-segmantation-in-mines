@@ -13,3 +13,8 @@ This code shows our usage of transformations for human segmentation in risky sit
 ![5_org](https://github.com/Farhad-AI/Transformation-for-human-segmantation-in-mines/assets/106428795/48d47222-385a-4ae0-9cc9-43e05f783f32)
 
 ![5_final](https://github.com/Farhad-AI/Transformation-for-human-segmantation-in-mines/assets/106428795/72b4b47d-00e5-4a53-bbfe-a623eea9f674)
+
+
+
+
+## Enjoy it
